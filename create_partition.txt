@@ -1,8 +1,0 @@
-
-    select volume D
-    shrink desired=10240
-    create partition primary
-    format fs=ntfs quick
-    assign letter=D
-    exit
-    
